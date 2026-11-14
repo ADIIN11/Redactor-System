@@ -1,0 +1,34 @@
+CLASSIFIED // INTERBANK WIRE DISPATCH // PRIORITY: IMMEDIATE
+================================================================
+FROM    : Treasury Operations, Meridian Trust Bank Ltd.
+TO      : Settlements Desk, Northbridge Clearing House
+DATE    : 14-NOV-2026 09:42 IST
+REF NO  : MTB/WIRE/2026/00417
+================================================================
+
+1. ORIGINATOR DETAILS
+   Originator Name       : Meera Nair
+   Originator PAN        : NNWPN1399R
+   Originator Aadhaar    : 8987 9730 9114
+   Registered Mobile     : +91 96846 97880
+   Registered Email      : meera.nair@demo-mail.org
+   Corporate Card Used   : 4170 7536 4556 8155
+
+2. BENEFICIARY DETAILS
+   Beneficiary Name      : Aarav Joshi
+   Beneficiary A/c No: 878472671475
+   Beneficiary Bank      : Punjab National Bank
+   Beneficiary IFSC      : PUNB0768045
+   Beneficiary PAN       : XCQPJ7273D
+   Beneficiary Contact   : +91 63627 01079
+   Notify Email          : aarav.joshi@demo-mail.org
+
+3. TRANSFER INSTRUCTION
+   Amount                : INR 48,75,000.00
+   Purpose               : Settlement of vendor milestone payment
+   Mode                  : RTGS
+
+Please confirm receipt and release funds before the 15:30 cut-off.
+Any discrepancy must be escalated to the compliance desk immediately.
+
+-- END OF DISPATCH --

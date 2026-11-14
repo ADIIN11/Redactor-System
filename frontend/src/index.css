@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+html, body, #root { height: 100%; }
+body { background-color: #09090b; color: #e4e4e7; font-family: ui-sans-serif, system-ui, sans-serif; }
+@keyframes barIn { from { opacity: 0; transform: scaleX(0.5); } to { opacity: 1; transform: scaleX(1); } }
+.bar-in { animation: barIn 0.25s ease-out; transform-origin: left center; }
